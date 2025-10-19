@@ -1,7 +1,7 @@
 {
-  "name": "clock-of-clocks",
+  "name": "clocks24",
   "version": "1.0.0",
-  "description": "Clock made of clocks",
+  "description": "clocks24",
   "type": "module",
   "scripts": {
     "dev": "vite",
